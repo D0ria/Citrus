@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Cette branche est destinée au créateur du serveur et à sa gestion
-=======
+
 Cette branche est destiné au créateur du front-end
->>>>>>> 1213866302c9214ecdcb2b4de092edc6ad282bd3
-=======
 # groupie-tracker-ratio2
 groupie-tracker-ratio2 created by Charretier Dylan, Ari Malla Ibrahim, Remadna Doria
 
@@ -25,4 +20,3 @@ Puissiez vous chercher de nouveaux sons et artistes frais.
 
 
 L'équipe Citrus
->>>>>>> c29bc7af7344c84e5f974fb54212b3e43d22a447
